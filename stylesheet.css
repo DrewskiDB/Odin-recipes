@@ -11,10 +11,7 @@ h1 {
     color: white;
 }
 .img-container{
-    /* display: flex;
-    justify-content: center; */
     text-align: center;
-    
 }
 .container{
     display: flex;
