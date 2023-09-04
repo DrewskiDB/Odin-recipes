@@ -1,8 +1,10 @@
-body{
-    font-family: 'Times New Roman', Times, serif;
-}
 
 img {
     width: 400px;
-    height: 400px;
+    height: 300px;
+}
+
+.Recipe-Card{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
 }
